@@ -1,4 +1,4 @@
-const BASE_URL = "https://efe5-103-106-153-143.ngrok-free.app/scrape/";
+const BASE_URL = "https://efe5-103-106-153-143.ngrok-free.app/";
 let socket;
 console.log('no file import errors')
   export const initializeBot = ({ apiKey }) => {
